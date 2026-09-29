@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jahanzaib Khan
 
-<!--
-**Jazz158/Jazz158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack  developer based in Karachi, Pakistan.
 
-Here are some ideas to get you started:
+## What I build
+- Deployed a satellite-based flood intelligence tool 
+  using Sentinel Hub + React/Leaflet for Pakistan
+- Building JWT auth APIs with Node.js, Express, PostgreSQL
+- Bookmark Manager — React SPA with CRUD, tagging, 
+  and search functionality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Node.js · Javascript · Express · PostgreSQL · React
+
+## Currently
+- Building toward backend/AI engineering roles in Karachi
+- Open to opportunities
+
